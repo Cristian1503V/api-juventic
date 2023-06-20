@@ -1,0 +1,347 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Jose Antonio",
+      "lastname": "Perez Aranguren",
+      "ratings": {
+        "test": 50,
+        "tasks": 50,
+        "jobsinclass": 40,
+        "selfappraisal": 50
+      },
+      "idTeacher": 2,
+      "subject": "Matematicas",
+      "approved": false
+    },
+    {
+      "id": 2,
+      "name": "María Fernández",
+      "lastname": "Gómez Rodríguez",
+      "ratings": {
+        "test": 75,
+        "tasks": 80,
+        "jobsinclass": 90,
+        "selfappraisal": 70
+      },
+      "idTeacher": 2,
+      "subject": "Física",
+      "approved": true
+    },
+    {
+      "id": 3,
+      "name": "Carlos Medina",
+      "lastname": "López García",
+      "ratings": {
+        "test": 60,
+        "tasks": 65,
+        "jobsinclass": 70,
+        "selfappraisal": 75
+      },
+      "idTeacher": 1,
+      "subject": "Química",
+      "approved": true
+    },
+    {
+      "id": 4,
+      "name": "Ana Torres",
+      "lastname": "Ramírez Sánchez",
+      "ratings": {
+        "test": 45,
+        "tasks": 55,
+        "jobsinclass": 50,
+        "selfappraisal": 60
+      },
+      "idTeacher": 6,
+      "subject": "Ciencias Sociales",
+      "approved": false
+    },
+    {
+      "id": 5,
+      "name": "Laura García",
+      "lastname": "López González",
+      "ratings": {
+        "test": 70,
+        "tasks": 75,
+        "jobsinclass": 80,
+        "selfappraisal": 85
+      },
+      "idTeacher": 3,
+      "subject": "Historia",
+      "approved": true
+    },
+    {
+      "id": 6,
+      "name": "Andrés Sánchez",
+      "lastname": "Martínez Ramírez",
+      "ratings": {
+        "test": 85,
+        "tasks": 90,
+        "jobsinclass": 80,
+        "selfappraisal": 95
+      },
+      "idTeacher": 4,
+      "subject": "Inglés",
+      "approved": true
+    },
+    {
+      "id": 7,
+      "name": "Carolina Rodríguez",
+      "lastname": "Fernández Pérez",
+      "ratings": {
+        "test": 55,
+        "tasks": 60,
+        "jobsinclass": 65,
+        "selfappraisal": 70
+      },
+      "idTeacher": 3,
+      "subject": "Literatura",
+      "approved": true
+    },
+    {
+      "id": 8,
+      "name": "Javier Morales",
+      "lastname": "López González",
+      "ratings": {
+        "test": 80,
+        "tasks": 85,
+        "jobsinclass": 90,
+        "selfappraisal": 75
+      },
+      "idTeacher": 6,
+      "subject": "Ciencias Sociales",
+      "approved": true
+    },
+    {
+      "id": 9,
+      "name": "Sofía Torres",
+      "lastname": "García Ramírez",
+      "ratings": {
+        "test": 60,
+        "tasks": 65,
+        "jobsinclass": 70,
+        "selfappraisal": 55
+      },
+      "idTeacher": 5,
+      "subject": "Educación Física",
+      "approved": true
+    },
+    {
+      "id": 10,
+      "name": "David Herrera",
+      "lastname": "Pérez Sánchez",
+      "ratings": {
+        "test": 50,
+        "tasks": 45,
+        "jobsinclass": 55,
+        "selfappraisal": 60
+      },
+      "idTeacher": 5,
+      "subject": "Arte",
+      "approved": false
+    },
+    {
+      "id": 11,
+      "name": "Isabella Torres",
+      "lastname": "López García",
+      "ratings": {
+        "test": 70,
+        "tasks": 80,
+        "jobsinclass": 90,
+        "selfappraisal": 85
+      },
+      "idTeacher": 1,
+      "subject": "Biología",
+      "approved": true
+    },
+    {
+      "id": 12,
+      "name": "Diego Sánchez",
+      "lastname": "Gómez Ramírez",
+      "ratings": {
+        "test": 65,
+        "tasks": 70,
+        "jobsinclass": 75,
+        "selfappraisal": 80
+      },
+      "idTeacher": 2,
+      "subject": "Física",
+      "approved": true
+    },
+    {
+      "id": 13,
+      "name": "Valeria González",
+      "lastname": "Ramírez Pérez",
+      "ratings": {
+        "test": 40,
+        "tasks": 50,
+        "jobsinclass": 55,
+        "selfappraisal": 60
+      },
+      "subject": "Matemáticas",
+      "approved": false
+    },
+    {
+      "id": 14,
+      "name": "Carlos Fernández",
+      "lastname": "López García",
+      "ratings": {
+        "test": 90,
+        "tasks": 80,
+        "jobsinclass": 75,
+        "selfappraisal": 95
+      },
+      "idTeacher": 4,
+      "subject": "Inglés",
+      "approved": true
+    },
+    {
+      "id": 15,
+      "name": "María Torres",
+      "lastname": "Gómez Sánchez",
+      "ratings": {
+        "test": 70,
+        "tasks": 65,
+        "jobsinclass": 80,
+        "selfappraisal": 75
+      },
+      "idTeacher": 3,
+      "subject": "Historia",
+      "approved": true
+    },
+    {
+      "id": 16,
+      "name": "Javier García",
+      "lastname": "Martínez Pérez",
+      "ratings": {
+        "test": 55,
+        "tasks": 60,
+        "jobsinclass": 65,
+        "selfappraisal": 70
+      },
+      "idTeacher": 2,
+      "subject": "Literatura",
+      "approved": true
+    },
+    {
+      "id": 17,
+      "name": "Laura Rodríguez",
+      "lastname": "Gómez Pérez",
+      "ratings": {
+        "test": 80,
+        "tasks": 85,
+        "jobsinclass": 90,
+        "selfappraisal": 75
+      },
+      "idTeacher": 6,
+      "subject": "Ciencias Sociales",
+      "approved": true
+    },
+    {
+      "id": 18,
+      "name": "Andrés Medina",
+      "lastname": "López Sánchez",
+      "ratings": {
+        "test": 60,
+        "tasks": 65,
+        "jobsinclass": 70,
+        "selfappraisal": 55
+      },
+      "idTeacher": 5,
+      "subject": "Educación Física",
+      "approved": true
+    },
+    {
+      "id": 19,
+      "name": "Sofía Torres",
+      "lastname": "García Ramírez",
+      "ratings": {
+        "test": 50,
+        "tasks": 45,
+        "jobsinclass": 55,
+        "selfappraisal": 60
+      },
+      "idTeacher": 5,
+      "subject": "Arte",
+      "approved": false
+    },
+    {
+      "id": 20,
+      "name": "David Herrera",
+      "lastname": "Pérez Sánchez",
+      "ratings": {
+        "test": 70,
+        "tasks": 80,
+        "jobsinclass": 90,
+        "selfappraisal": 85
+      },
+      "idTeacher": 1,
+      "subject": "Biología",
+      "approved": true
+    },
+    {
+      "id": 21,
+      "name": "Laura García",
+      "lastname": "López González",
+      "ratings": {
+        "test": 70,
+        "tasks": 75,
+        "jobsinclass": 80,
+        "selfappraisal": 85
+      },
+      "idTeacher": 3,
+      "subject": "Historia",
+      "approved": true
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Magda Rocio",
+      "lastname": "Perez Perez",
+      "subject": [
+        "Biología",
+        "Química"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Juan Carlos",
+      "lastname": "Gomez Sanchez",
+      "subject": [
+        "Matemáticas",
+        "Física"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "María Fernanda",
+      "lastname": "Rodríguez Sánchez",
+      "subject": [
+        "Historia",
+        "Literatura"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Luis Miguel",
+      "lastname": "Hernández Torres",
+      "subject": "Inglés"
+    },
+    {
+      "id": 5,
+      "name": "Ana Sofía",
+      "lastname": "Gómez Ramírez",
+      "subject": [
+        "Arte",
+        "Educación Física"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Oswal Alonzo",
+      "lastname": "Gómez Perez",
+      "subject": "Ciencias Sociales"
+    }
+  ]
+}
