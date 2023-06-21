@@ -8,13 +8,13 @@ This api was made with the library of
 We hope you can use it and the information is specified well (-_-)
 
 
-- POST `/students OR /teachers`
+- POST    `/students OR /teachers`
 
 
-- DELETE `/students?id=1 OR /teachers?id=1`
+- DELETE   `/students?id=1 OR /teachers?id=1`
 
 
-- GET `/my-name`
+- GET      `/my-name`
     
 
 <img src="https://content.pstmn.io/544a51ef-69f9-4a67-8ba9-7cfa2c78fcc2/aW1hZ2UucG5n" width="564" height="50">
