@@ -17,7 +17,7 @@ We hope you can use it and the information is specified well (-_-)
 - GET `/my-name`
     
 
-<img src="https://content.pstmn.io/544a51ef-69f9-4a67-8ba9-7cfa2c78fcc2/aW1hZ2UucG5n" width="564" height="80">
+<img src="https://content.pstmn.io/544a51ef-69f9-4a67-8ba9-7cfa2c78fcc2/aW1hZ2UucG5n" width="564" height="60">
 
 By setting up requests in the order of the operation, we can test the flow of data to and from the endpoints and ensure they work together as expected. We also verify that the data persists between requests on the back end.
 
